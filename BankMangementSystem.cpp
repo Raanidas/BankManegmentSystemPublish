@@ -7,7 +7,7 @@
     int c,d;
 string e,statment;
 int NewBalance;
-    cout<<"==================Task 7 ==================="<<endl<<endl;
+    cout<<"================== Bank Mangement System ==================="<<endl<<endl;
 cout << "Enter account no.: ";
 cin>> a;
 cout << "Enter any account type (C for checking and S for saving): ";
